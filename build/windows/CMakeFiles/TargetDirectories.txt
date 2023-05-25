@@ -1,0 +1,10 @@
+D:/student_helper/build/windows/CMakeFiles/INSTALL.dir
+D:/student_helper/build/windows/CMakeFiles/ALL_BUILD.dir
+D:/student_helper/build/windows/CMakeFiles/ZERO_CHECK.dir
+D:/student_helper/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/student_helper/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/student_helper/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+D:/student_helper/build/windows/flutter/CMakeFiles/INSTALL.dir
+D:/student_helper/build/windows/runner/CMakeFiles/student_helper.dir
+D:/student_helper/build/windows/runner/CMakeFiles/INSTALL.dir
+D:/student_helper/build/windows/runner/CMakeFiles/ALL_BUILD.dir

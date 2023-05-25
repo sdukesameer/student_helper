@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741267383047",
+    "project_id": "studenthelper-79c48",
+    "storage_bucket": "studenthelper-79c48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741267383047:android:dfb4d7580095ab29701ba2",
+        "android_client_info": {
+          "package_name": "com.hello.student_helper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741267383047-4thhr1jb6tc0bvrvjc6ne4i87mhcigbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKhZcP0sLW6hGUArvjg2wbiMC_xpDxHVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741267383047-4thhr1jb6tc0bvrvjc6ne4i87mhcigbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

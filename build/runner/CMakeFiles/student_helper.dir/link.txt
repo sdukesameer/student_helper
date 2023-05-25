@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\student_helper.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\student_helper.dir/objects.a @CMakeFiles\student_helper.dir\objects1
+C:\MinGW\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\student_helper.dir/objects.a -Wl,--no-whole-archive -o student_helper.exe -Wl,--out-implib,libstudent_helper.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\student_helper.dir\linkLibs.rsp
